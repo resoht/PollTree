@@ -14,7 +14,7 @@ html, body{
 }
 
 .home .container{
-  background: url("https://raw.githubusercontent.com/resoht/PollTree/main/bg_index.jpg") no-repeat center center;
+  background: url("https://resoht.github.io/PollTree/bg_index.jpg") no-repeat center center;
   background-size: cover;
 }
 
@@ -233,7 +233,7 @@ input
 }
 
 .register-login
-input:focus
+input:focus,
 {
   border: 1px solid #293ca6;
   box-shadow: inset 2px 2px 2px rgba(41,60,166,0.15);
@@ -493,7 +493,7 @@ input[type=submit]{
 }
 
 .col{
-  float: left；
+  float-left;
 }
 
 .col-md-3{
