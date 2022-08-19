@@ -264,7 +264,6 @@ input
 }
 
 .form-popup{
-  display: none;
   width: 30%;
   background-color: #ffffff;
   border: 1px solid #a8a8a8;
@@ -276,6 +275,15 @@ input
   transform: translate(-50%, -50%);
   padding: 25px 50px 35px 50px;
 }
+
+.hide{
+  display: none;
+}
+
+.show{
+  display: show;
+}
+
 /* End Register Login */
 
 /* Poll Gallery Table */
