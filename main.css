@@ -281,7 +281,7 @@ input
 }
 
 .show{
-  display: show;
+  display: block;
 }
 
 /* End Register Login */
