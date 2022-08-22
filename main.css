@@ -284,6 +284,14 @@ input
   display: block;
 }
 
+.sys_error{
+  position: absolute;
+  box-sizing: border-box;
+  width: 100px;
+  top: 20px;
+  background-color: rgba(255, 0, 0, 0.2);
+}
+
 /* End Register Login */
 
 /* Poll Gallery Table */
