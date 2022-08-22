@@ -58,6 +58,10 @@ h6{
   font-weight: bold;
 }
 
+.pointer{
+  cursor: pointer;
+}
+
 .tl-align{
   text-align: left;
 }
