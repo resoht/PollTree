@@ -291,9 +291,10 @@ input
 .sys-error{
   position: absolute;
   box-sizing: border-box;
-  width: 100%;
+  width: 80%;
   top: 20px;
   background-color: rgba(255, 0, 0, 0.2);
+  padding: 8px;
 }
 
 /* End Register Login */
