@@ -310,6 +310,16 @@ input
   padding: 8px;
 }
 
+.border-error{
+  color: #dc3545;
+}
+
+.invalid-input{
+  color: #dc3545;
+  width: 100%;
+  
+}
+
 /* End Register Login */
 
 /* Poll Gallery Table */
