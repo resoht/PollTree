@@ -311,7 +311,7 @@ input
 }
 
 .border-error{
-  color: #dc3545;
+  color: #dc3545 !important;
 }
 
 .invalid-input{
