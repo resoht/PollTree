@@ -58,6 +58,10 @@ text-decoration-none{
   text-decoration: none;
 }
 
+text-blue{
+  color: #293ca6;
+}
+
 .bold{
   font-weight: bold;
 }
