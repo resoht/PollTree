@@ -540,7 +540,7 @@ input[type=submit]{
 }
 
 .col{
-  float-left;
+  float: left;
 }
 
 .col-md-3{
