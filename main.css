@@ -316,6 +316,11 @@ input
 
 .invalid-input{
   color: #dc3545;
+  position: relative;
+  left:31.5%;
+  margin-top: -20px;
+  margin-bottom: 10px;
+  width: 68%;
 }
 
 /* End Register Login */
