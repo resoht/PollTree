@@ -91,7 +91,7 @@ h6{
 }
 
 .position-relative{
-  position: relative;
+  position: relative !important;
 }
 
 .shadow-none {
