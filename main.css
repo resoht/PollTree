@@ -90,6 +90,10 @@ h6{
   position: absolute;
 }
 
+.position-relative{
+  position: relative;
+}
+
 .shadow-none {
   box-shadow: none;
 }
