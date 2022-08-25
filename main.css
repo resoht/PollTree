@@ -438,7 +438,7 @@ textarea:focus{
   position: relative;
   left: 31%;
   width: 65.8%;
-  border-bottom: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc !important;
 }
 
 .create-poll
