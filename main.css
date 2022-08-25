@@ -434,6 +434,13 @@ textarea:focus{
   outline: none;
 }
 
+.file-upload{
+  position: relative;
+  left: 31%
+  width: 65.8%
+  border-bottom: 1px solid #cccccc;
+}
+
 .create-poll
 input[type=submit]{
   color: #ffffff;
