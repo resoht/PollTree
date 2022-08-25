@@ -436,8 +436,8 @@ textarea:focus{
 
 .file-upload{
   position: relative;
-  left: 31%
-  width: 65.8%
+  left: 31%;
+  width: 65.8%;
   border-bottom: 1px solid #cccccc;
 }
 
