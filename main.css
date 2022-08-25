@@ -458,6 +458,12 @@ select,
 {
   flex: 2;
 }
+
+.divider-line{
+  border-top: 1px #cccccc solid;
+  padding-top: 25px;
+}
+
 /* End Create Poll Form */
 
 /* Vote & Poll Result*/
