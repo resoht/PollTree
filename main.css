@@ -90,6 +90,10 @@ h6{
   position: absolute;
 }
 
+.shadow-none {
+  box-shadow: none;
+}
+
 .logo{
   float: left;
   width: 200px;
