@@ -524,6 +524,18 @@ select,
   padding-top: 25px;
 }
 
+.tooltiptext::after{
+  content= "";
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -6px;
+  border-width: 6px;
+  border-style: solid;
+  border-color: transparent #293ca626 transparent transparent;
+
+}
+
 .btn-add-delete{
   right: 0;
   font-size: 16px;
