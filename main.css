@@ -525,10 +525,11 @@ select,
 }
 
 .tooltiptext{
+  visibility: hidden;
   background-color: #293ca626;
   width: 130px;
   font-size: 12px;
-  margin-left: 20px;
+  margin-left: 15px;
   padding: 8px;
   border-radius: 3px;
 }
@@ -538,11 +539,14 @@ select,
   position: absolute;
   top: 50%;
   right: 100%;
-  margin-top: -6px;
-  border-width: 6px;
+  margin-top: -7px;
+  border-width: 7px;
   border-style: solid;
   border-color: transparent #293ca626 transparent transparent;
+}
 
+.btn-add-delete .tooltiptext{
+  visibility: visible;
 }
 
 .btn-add-delete{
