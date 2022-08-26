@@ -541,7 +541,7 @@ select,
   border-color: transparent #293ca626 transparent transparent;
 }
 
-.tooltip .tooltiptext{
+.tooltip:hover .tooltiptext{
   visibility: visible;
 }
 
