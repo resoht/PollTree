@@ -459,9 +459,7 @@ textarea:focus{
 }
 
 .file-upload{
-  padding-left: 0 !important;
   font-size: 13px !important;
-  border-bottom: 1px solid #cccccc !important;
   width: 97%;
 }
 
