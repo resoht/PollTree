@@ -460,7 +460,8 @@ textarea:focus{
 
 .file-upload{
   font-size: 13px !important;
-  width: 97%;
+  background-color: #efefef;
+  padding: 5px !important;
 }
 
 .create-poll
