@@ -528,6 +528,8 @@ select,
   margin-left: 15px;
   padding: 8px;
   border-radius: 3px;
+  top: 0;
+  right: -40%;
 }
 
 .tooltiptext::after{
