@@ -524,6 +524,15 @@ select,
   padding-top: 25px;
 }
 
+.tooltiptext{
+  background-color: #293ca626;
+  width: 130px;
+  font-size: 12px;
+  margin-left: 20px;
+  padding: 8px;
+  border-radius: 3px;
+}
+
 .tooltiptext::after{
   content= "";
   position: absolute;
