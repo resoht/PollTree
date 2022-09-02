@@ -260,6 +260,7 @@ footer{
   list-style: none;
   min-width: 130px;
   right: 0;
+  z-index: 9;
 }
 
 .dropdown-content li a{
